@@ -1,0 +1,20 @@
+body{
+    background: #1a1a2e;
+    font-family: "Poppins";
+}
+.main-head{
+    color: white;
+}
+
+.main-box{
+    color: white;
+    border-radius: 15px;
+    background-color:#36364c;
+    width: 40%;
+    padding: 2%;
+}
+#tasks{
+    display: flex;
+    flex-direction: column;
+
+}
