@@ -1,0 +1,10 @@
+body{
+    color: white;
+    background-color: black;
+}
+.slider-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
